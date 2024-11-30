@@ -99,13 +99,7 @@
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://43.205.112.87:8088/repository/maven-web-application/</url>
 	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Maven-web-application Snapshot Nexus Repository </name>
-	      <url>http://43.205.112.87:8088/repository/maven-web-application/</url>
-	    </snapshotRepository>
-	    
+		
 	</distributionManagement>
 	
 	<build>
